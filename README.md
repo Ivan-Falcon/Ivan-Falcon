@@ -7,7 +7,7 @@ I am a student of Network Information Systems Administration, passionate about c
 - 🧑‍💻 I’m currently learning ...
   - mysql
   - php
-  - cybersegurity
+  - cybersecurity
 - 📚 I’m looking forward to collaborate in the proyect.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of technology, 🎮 play video games, 🎵 listen to music, 📖 read, and watch series or movies.
