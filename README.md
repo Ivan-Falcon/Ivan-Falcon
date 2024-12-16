@@ -4,11 +4,11 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>&nbsp;***About me***
 
 I am a student of Network Information Systems Administration, passionate about continuous learning in the computer world.
-- 🌱 I’m currently learning ...
+- 🧑‍💻 I’m currently learning ...
   - mysql
   - php
   -cybersegurity
-- 👯 I’m looking forward to collaborate in the proyect.
+- <img src="https://github.com/user-attachments/assets/e47d37cd-b29e-4194-8c88-ec3201024c5"> I’m looking forward to collaborate in the proyect.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of technology, 🎮 play video games, 🎵 listen to music, 📖 read, and watch series or movies.
 - 📫 Reach out to me at: <a href="ivanfalcon2523@gmail.com">ivanfalcon2523@gmail.com</a>
