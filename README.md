@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ivan Falcon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>" width="30px">&nbsp;***About me***
 
 I am a student of Network Information Systems Administration, passionate about continuous learning in the computer world.
 - 🌱 I’m currently learning ...
