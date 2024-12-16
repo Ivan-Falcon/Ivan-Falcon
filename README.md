@@ -8,7 +8,7 @@ I am a student of Network Information Systems Administration, passionate about c
   - mysql
   - php
   -cybersegurity
-- <img src="https://github.com/user-attachments/assets/e47d37cd-b29e-4194-8c88-ec3201024c5"> I’m looking forward to collaborate in the proyect.
+- 📚 I’m looking forward to collaborate in the proyect.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of technology, 🎮 play video games, 🎵 listen to music, 📖 read, and watch series or movies.
 - 📫 Reach out to me at: <a href="ivanfalcon2523@gmail.com">ivanfalcon2523@gmail.com</a>
