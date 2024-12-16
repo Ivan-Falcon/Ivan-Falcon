@@ -10,7 +10,7 @@ I am a student of Network Information Systems Administration, passionate about c
   -cybersegurity
 - 👯 I’m looking forward to collaborate in the proyect.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech,  🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside of technology, 🎮 play video games, 🎵 listen to music, 📖 read, and watch series or movies.
 - 📫 Reach out to me at: <a href="ivanfalcon2523@gmail.com">ivanfalcon2523@gmail.com</a>
 
 
